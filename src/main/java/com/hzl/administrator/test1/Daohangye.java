@@ -13,6 +13,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,6 +31,7 @@ public class Daohangye extends Activity {
             R.drawable.m3,
             R.drawable.m4
     };
+    private TextView textView85;
     ViewPager mviewpage;
 
     @Override
